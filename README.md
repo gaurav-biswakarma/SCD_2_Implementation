@@ -1,5 +1,8 @@
 # SCD_2_Implementation
 
+![database](https://user-images.githubusercontent.com/100192347/155979704-6660e240-7bb8-4082-98df-d980194123bc.jpg)
+
+
 **Introduction**: 
 
 A company X wants to keep its employee data up to date in their central database.  
@@ -12,3 +15,17 @@ The field 'Location' is a Slowly changing Dimension (  a dimension whose attribu
 **ETL Process:**
 
 We are sourcing the data from MS SQL Server, transforming it using Informatica and loading it to Oracle server.
+
+**ETL Process:**
+
+We are sourcing the data from MS SQL Server, transforming it using Informatica and loading it to Oracle server.
+
+**Source table in MySQL server:**
+
+![image](https://user-images.githubusercontent.com/100192347/155979863-a3ab2cd5-2df7-4b33-b9d7-6fa41799e1af.png)
+
+**Target table in Oracle:**
+
+![image](https://user-images.githubusercontent.com/100192347/155979889-a728cce3-c5fb-4cff-8b33-5baea4e8be06.png)
+
+
